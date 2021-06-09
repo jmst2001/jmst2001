@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi I'm 👋🏼
+
+
+![Mi imagen personal](https://raw.githubusercontent.com/jmst2001/jmst2001/main/Jos%C3%A9%20Manuel%20Su%C3%A1rez%20Tocino.gif)
 
 <!--
 **jmst2001/jmst2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
